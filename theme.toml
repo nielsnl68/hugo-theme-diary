@@ -5,7 +5,7 @@ description = "Moments piled up. A simple, elegant blog theme."
 homepage = "https://lumensoft.nl/"
 tags = ["blog"]
 features = ["mobile","elegant"]
-min_version = "0.59.60"
+min_version = "0.120.60"
 
 [author]
   name = "nielsnl68"
